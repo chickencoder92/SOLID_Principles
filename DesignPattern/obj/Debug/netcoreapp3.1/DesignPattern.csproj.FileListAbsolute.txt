@@ -1,0 +1,12 @@
+/Users/CThieu/Projects/DesignPattern/DesignPattern/bin/Debug/netcoreapp3.1/DesignPattern.deps.json
+/Users/CThieu/Projects/DesignPattern/DesignPattern/bin/Debug/netcoreapp3.1/DesignPattern.runtimeconfig.json
+/Users/CThieu/Projects/DesignPattern/DesignPattern/bin/Debug/netcoreapp3.1/DesignPattern.runtimeconfig.dev.json
+/Users/CThieu/Projects/DesignPattern/DesignPattern/bin/Debug/netcoreapp3.1/DesignPattern.dll
+/Users/CThieu/Projects/DesignPattern/DesignPattern/bin/Debug/netcoreapp3.1/DesignPattern.pdb
+/Users/CThieu/Projects/DesignPattern/DesignPattern/obj/Debug/netcoreapp3.1/DesignPattern.csprojAssemblyReference.cache
+/Users/CThieu/Projects/DesignPattern/DesignPattern/obj/Debug/netcoreapp3.1/DesignPattern.AssemblyInfoInputs.cache
+/Users/CThieu/Projects/DesignPattern/DesignPattern/obj/Debug/netcoreapp3.1/DesignPattern.AssemblyInfo.cs
+/Users/CThieu/Projects/DesignPattern/DesignPattern/obj/Debug/netcoreapp3.1/DesignPattern.csproj.CoreCompileInputs.cache
+/Users/CThieu/Projects/DesignPattern/DesignPattern/obj/Debug/netcoreapp3.1/DesignPattern.dll
+/Users/CThieu/Projects/DesignPattern/DesignPattern/obj/Debug/netcoreapp3.1/DesignPattern.pdb
+/Users/CThieu/Projects/DesignPattern/DesignPattern/obj/Debug/netcoreapp3.1/DesignPattern.genruntimeconfig.cache
